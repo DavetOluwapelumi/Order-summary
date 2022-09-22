@@ -79,6 +79,13 @@ button a {
   text-align: center;
   padding-top: 10px;
 }
+.col{
+  display: flex;
+  align-items: center;
+}
+.col img{
+  padding-right: 18px;
+}
 @media screen and (max-width:281px) {
   .flex{
     display: flex;
